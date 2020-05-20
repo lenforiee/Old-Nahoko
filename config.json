@@ -1,0 +1,49 @@
+{
+  "bot": {
+    "token": "NzExNjM4NjMwNTU2MjM3ODY1.XsF7ug.npu6EvGOBEwy9JBjocR7HxHB-CQ",
+    "player-reports": "711641183327354970",
+    "staff_general": "709395869367009331",
+    "bot_id": "711638630556237865",
+    "owner_id": "591365310611718172",
+    "announcements": "709395880129855489",
+    "general": "709395883149623309",
+    "game": "https://www.misumi.me/",
+    "prefix": "!",
+    "server_name": "Osu!Misumi",
+    "//Id of the role thats gonna have access to admin commands (Don't use normal roles eg. Owner, Dev)": "LEAVE IT LIKE IT IS",
+    "//Make a new role just to have access to this commands (e.g. !blacklist)(role eg. Bot Staff)": "LEAVE IT LIKE IT IS",
+    "id_role_bot": "712074497577975950"
+  },
+  "db": {
+    "host": "localhost",
+    "username": "misumi",
+    "password": "rootuser",
+    "database": "misumi"
+  },
+  "blacklisted_words": [
+    "akatsuki",
+    "kotorikku",
+    "kawata",
+    "toh.ru",
+    "ryusei",
+    "ryu-sei",
+    "waving",
+    "enjuu",
+    "verge",
+    "toh ru",
+    "toh-ru",
+    "email verify",
+    "email",
+    "email verification",
+    "drop",
+    "drop database",
+    "drop database ripple",
+    "drop database ripple;",
+    "nigger",
+    "aniu",
+    "kurwa",
+    "aniu",
+    "ripple",
+    "nakichi"
+  ]
+}

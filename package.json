@@ -1,0 +1,25 @@
+{
+  "name": "nahoko",
+  "version": "1.0.0",
+  "description": "The official discord bot for Osu!Misumi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenforiee/nahokobot.git"
+  },
+  "author": "Lenforiee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenforiee/nahokobot/issues"
+  },
+  "homepage": "https://github.com/lenforiee/nahokobot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "mysql": "^2.16.0",
+    "randomcolor": "^0.5.3",
+    "sqlstring": "^2.3.1"
+  }
+}
