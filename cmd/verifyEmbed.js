@@ -4,7 +4,7 @@ const config = require("../config.json")
 
 module.exports = function (client) {
     client.on("message", async message => {
-        if (message.content.startsWith(config.bot.prefix + "verifyembed")) {
+        if (message.content.startsWith(config.bot.prefix + "verifembed")) {
 			if(!message.member.roles.has(config.bot.id_role_bot)) return message.channel.send("You don't have access to this command!")
       message.delete();
 
