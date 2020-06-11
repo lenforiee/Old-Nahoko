@@ -15,7 +15,7 @@ module.exports = function (client) {
             const embed = new Discord.RichEmbed()
             .setTitle("Welcome to the Verify Channel")
             .addField("Information", "Please make sure to **read** rules before verifying, these can be found at **#rules**.")
-            .addField("How to get verified?", "Simple. Just type **?verify** and you are good to go.")
+            .addField("How to get verified?", "Simple. Just type **!verify** and you are good to go.")
             message.channel.send(embed)
 			}catch (e) {
 				return message.channel.send("Something went wrong check code :/")
