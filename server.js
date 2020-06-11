@@ -43,6 +43,8 @@ require("./cmd/getPPInfo")(client)
 require("./cmd/getPPInfoRelax")(client)
 require("./cmd/donor")(client)
 require("./cmd/verify")(client)
+require("./cmd/topScoreRX")(client)
+require("./cmd/topScore")(client)
 // Player Reporting
 require("./cmd/reportPlayer")(client)
 require("./handlers/playerReportingListener")(client)
