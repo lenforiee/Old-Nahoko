@@ -16,7 +16,7 @@ module.exports = function (client) {
                 let hex = parseInt(color.replace(/^#/, ''), 16);
 
                 const embed = new Discord.RichEmbed()
-                    .setTitle("Top Score For " + user[0].username)
+                    .setTitle("Top Relax Score For " + user[0].username)
                     .setURL("https://misumi.me/u/" + recentScore[0].userid)
                     .setColor(hex)
                     .setDescription(recentScore[0].song_name)

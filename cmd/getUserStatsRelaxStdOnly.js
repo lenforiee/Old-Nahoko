@@ -17,7 +17,7 @@ module.exports = function (client) {
                 let color = randomcolor_1.randomColor();
                 let hex = parseInt(color.replace(/^#/, ''), 16);
                 const embed = new Discord.RichEmbed()
-                    .setTitle("Stats For " + user[0].username)
+                    .setTitle("Relax Stats For " + user[0].username)
                     .setURL("https://misumi.me/u/" + user[0].id)
                     .setColor(hex)
                     .setThumbnail("https://a.misumi.me/" + user[0].id)
