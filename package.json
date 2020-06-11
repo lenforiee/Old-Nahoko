@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/lenforiee/nahokobot#readme",
   "dependencies": {
-    "discord.js": "^11.4.2",
-    "mysql": "^2.16.0",
+    "colors": "^1.4.0",
+    "discord.js": "^11.6.4",
+    "expires-unixtime": "^0.4.1",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
     "randomcolor": "^0.5.3",
-    "sqlstring": "^2.3.1"
+    "sqlstring": "^2.3.2",
+    "unix-timestamp": "^0.2.0",
+    "unixtimezone.js": "^1.1.4"
   }
 }
