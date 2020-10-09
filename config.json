@@ -1,23 +1,23 @@
 {
   "bot": {
-    "token": "NzExNjM4NjMwNTU2MjM3ODY1.XsF7ug.npu6EvGOBEwy9JBjocR7HxHB-CQ",
-    "player_reports": "711641183327354970",
-    "staff_general": "709395869367009331",
-    "bot_id": "711638630556237865",
-    "owner_id": "591365310611718172",
-    "announcements": "709395880129855489",
-    "report_staff": "712290238378016839",
-    "general": "709395883149623309",
-    "verify": "714938918209978481",
+    "token": "",
+    "player_reports": "",
+    "staff_general": "",
+    "bot_id": "",
+    "owner_id": "",
+    "announcements": "",
+    "report_staff": "",
+    "general": "",
+    "verify": "",
     "game": "https://misumi.me/",
     "prefix": "!",
     "server_name": "osu!Misumi",
-    "id_role_bot": "712074497577975950"
+    "id_role_bot": ""
   },
   "db": {
     "host": "localhost",
-    "username": "misumi",
-    "password": "sbqCUT23d654qqm4",
+    "username": "",
+    "password": "",
     "database": "misumi"
   },
   "blacklisted_words": [
